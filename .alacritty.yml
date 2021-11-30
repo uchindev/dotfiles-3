@@ -1,0 +1,14 @@
+import:
+  - /home/uchin/.config/alacritty/alacritty-master/dracula.yml
+font:
+  normal:
+    family: "Cascadia Code"
+  size: 9
+window:
+  padding:
+    x: 15
+    y: 15
+bell:
+  animation: EaseOutExpo
+  color: '#ffffff'
+background_opacity: 0.9
